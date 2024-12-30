@@ -1,0 +1,7 @@
+timestamp,host,bandwidth_mbps,packets_per_second,latency_ms,tcp_connections,packet_loss_rate
+2024-12-30 10:00:00,app-server-01,450.2,8500,2.5,2450,0.001
+2024-12-30 10:00:00,loadbalancer-01,875.4,15600,1.8,4850,0.0008
+2024-12-30 10:01:00,app-server-01,458.7,8620,2.6,2480,0.001
+2024-12-30 10:01:00,loadbalancer-01,882.1,15750,1.9,4890,0.0008
+2024-12-30 10:02:00,app-server-01,125.3,2400,12.5,1850,0.015
+2024-12-30 10:02:00,loadbalancer-01,895.6,15900,2.1,4920,0.0009

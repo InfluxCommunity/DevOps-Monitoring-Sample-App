@@ -1,0 +1,7 @@
+timestamp,host,response_time_ms,requests_per_second,error_rate,active_sessions,db_connections
+2024-12-30 10:00:00,app-server-01,125,42.3,0.02,1250,85
+2024-12-30 10:00:00,rel-db-01,45,156.7,0.01,N/A,156
+2024-12-30 10:01:00,app-server-01,128,43.1,0.02,1262,87
+2024-12-30 10:01:00,rel-db-01,48,158.2,0.01,N/A,158
+2024-12-30 10:02:00,app-server-01,355,12.5,0.15,1150,92
+2024-12-30 10:02:00,rel-db-01,180,162.5,0.05,N/A,165
